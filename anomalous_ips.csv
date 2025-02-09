@@ -1,0 +1,4 @@
+timestamp,src_ip,dest_ip,protocol,action,bytes,status
+2025-02-09 12:01:45,192.168.1.100,10.0.0.5,TCP,ALLOW,500,OK
+2025-02-09 12:05:32,192.168.1.101,10.0.0.5,TCP,DENY,0,DENIED
+...
